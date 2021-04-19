@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoView</string>
+    <string name="activity_main">Activity Main</string>
+</resources>
