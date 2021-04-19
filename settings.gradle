@@ -1,3 +1,4 @@
+include ':app:textinputlayoutdemo'
 include ':app:democardview'
 include ':app'
 rootProject.name = "DemoView"
