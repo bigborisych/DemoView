@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DemoView</string>
     <string name="activity_main">Activity Main</string>
+    <string name="example_text">Какой то текст</string>
+    <string name="demo_card_view_text">DemoCardView</string>
+    <string name="text_input_layout_text">TextInputLayout</string>
 </resources>
