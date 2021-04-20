@@ -4,4 +4,7 @@
     <string name="example_text">Какой то текст</string>
     <string name="demo_card_view_text">DemoCardView</string>
     <string name="text_input_layout_text">TextInputLayout</string>
+    <string name="usual_text">Обычный текст</string>
+    <string name="style_text">Текст со стилем</string>
+    <string name="counter_text">Текст с счетчиком</string>
 </resources>
