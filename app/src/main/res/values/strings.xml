@@ -7,4 +7,16 @@
     <string name="usual_text">Обычный текст</string>
     <string name="style_text">Текст со стилем</string>
     <string name="counter_text">Текст с счетчиком</string>
+    <string name="nav_header_desc">Descripction</string>
+    <string name="nav_header_title">Menu</string>
+    <string name="nav_header_subtitle">Submenu</string>
+    <string name="menu_send">Отправить</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_tools">Настройки</string>
+    <string name="menu_gallery">Галерея</string>
+    <string name="menu_home">Домой</string>
+    <string name="action_settings">Настройки</string>
+    <string name="nav_open">Открыт</string>
+    <string name="nav_close">Закрыт</string>
+    <string name="tele">Связь</string>
 </resources>
