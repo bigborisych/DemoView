@@ -3,15 +3,14 @@
     package="com.vladborisov.demoview">
 
     <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        android:allowBackup="true"
-        android:fullBackupContent="@xml/backup_rules">
-        <activity android:name=".TextInputLayout" />
-        <activity android:name=".DemoCardView" />
+        android:theme="@style/AppTheme">
+        <activity android:name=".DemoView" />
         <activity
             android:name=".ActivityMain"
             android:label="@string/app_name">

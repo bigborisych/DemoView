@@ -15,11 +15,12 @@ public class ActivityMain extends AppCompatActivity {
     }
 
     public void onClick(View view) {
+        Intent intent = new Intent(this, DemoView.class);
         if (view.getId() == R.id.demo_card_view_button) {
-            Intent intent = new Intent(this, DemoCardView.class);
+            intent.putExtra("View", 1);
             startActivity(intent);
         } else if (view.getId() == R.id.text_input_layout_button) {
-            Intent intent = new Intent(this, TextInputLayout.class);
+            intent.putExtra("View", 2);
             startActivity(intent);
         }
     }
